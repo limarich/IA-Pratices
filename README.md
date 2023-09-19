@@ -7,7 +7,7 @@ Para testar o código deste desafio, siga as etapas abaixo:
 Primeiro, clone este repositório para a sua máquina local usando o seguinte comando:
 
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/limarich/IA-Pratices.git
 ```
 
 Substitua `seu-usuario` e `nome-do-repositorio` pelo seu nome de usuário do GitHub e o nome do repositório, se aplicável.
